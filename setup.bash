@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Witten by baka baka
+#Written by baka
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
